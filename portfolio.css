@@ -1,0 +1,83 @@
+.heading-container {
+  background-color: peachpuff;
+  color: #1b0000;
+  padding: 20px;
+  margin: 20px;
+}
+.name {
+  font-size: 30px;
+}
+.header-options {
+  float: right;
+  margin: 10px;
+  color: #1b0000;
+}
+.header-options2 {
+  margin: 10px;
+}
+.body-container {
+  display: flex;
+  height: 500px;
+}
+.toLeft {
+  margin-top: 20px;
+  margin-left: 20px;
+  background-color: peachpuff;
+  width: 40%;
+}
+.myImage {
+  margin-left: 160px;
+  margin-top: 20px;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+
+/* .Image {
+  margin: 20px;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+} */
+
+.name-image {
+  font-size: 50px;
+  margin-left: 125px;
+}
+
+.university-name {
+  margin-left: 150px;
+  margin-top: 10px;
+  color: purple;
+  font-size: large;
+}
+
+.a {
+  margin-top: 10px;
+  margin-left: 130px;
+}
+
+.icon {
+  margin-left: 50px;
+  font-size: 40px;
+}
+
+.icon-git {
+  margin-left: 50px;
+  font-size: 40px;
+}
+
+.toRight {
+  float: right;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+  background-color: #ff6962;
+  width: 60%;
+}
+.description {
+  margin: 30px;
+  justify-content: right;
+  color: white;
+  font-size: 20px;
+}
